@@ -19,14 +19,14 @@
             <p>Esse é o nosso primeiro paragrafo</p>
             
 
-            <form action="index.php" method="GET">
+            <form action="index.php" method="POST">
                 <input type="text" name="nome">
-                <textarea></textarea>
-                <select>
-                    <option>qualquer</option> 
-                    
+                <textarea name="texto"></textarea>
+                <select name="sexo">
+                    <option value="m">Masculino</option>
+                    <option value="f">Feminino</option>
                 </select>
-                <button>Enviar</button>
+                <button type="submit">Enviar</button>
             </form>
         </body>
 </html>
