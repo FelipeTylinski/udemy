@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-sclae=1">
     <title>ALL In - Treinamentos</title>
     <base href="http://localhost/">
+    <link rel="stylesheet" type="text/css" href="../recursos/css/main.css">
 </head>
 <body>
     <header>
