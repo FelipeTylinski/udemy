@@ -2,4 +2,13 @@ header .conteudo{
    width: 100%; 
    display: inline-flex;
    justify-content: space-between;
+   flex-wrap: wrap;
+}
+header .conteudo .logo{
+   width: 155px
+}
+header .conteudo .menu-lateral{
+   width: calc(100% - 245px);
+   display: inline-flex;
+   justify-content: flex-end;
 }
