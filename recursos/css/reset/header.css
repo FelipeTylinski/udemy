@@ -12,3 +12,11 @@ header .conteudo .menu-lateral{
    display: inline-flex;
    justify-content: flex-end;
 }
+header. .conteudo .menu-lateral .nav{
+   display: inline-flex;
+   justify-content: flex-end;
+}
+header .conteudo .menu-lateral .redes-sociais{
+   width: 160px;
+   margin-left: 80px;
+}
