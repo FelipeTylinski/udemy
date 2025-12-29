@@ -19,4 +19,6 @@ header .conteudo .menu-lateral .nav{
 header .conteudo .menu-lateral .redes-sociais{
    width: 160px;
    margin-left: 80px;
+   display: inline-flex;
+   justify-content: flex-end;
 }
